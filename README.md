@@ -1,2 +1,2 @@
-# Dicas-de-Treinos-e-Nutri-o
+#Dicas de treinos e nutrição
 projeto da A#
